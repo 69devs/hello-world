@@ -1,2 +1,2 @@
-language = "java10"
+language = "python3"
 run = "echo hello world"
